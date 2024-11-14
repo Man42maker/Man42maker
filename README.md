@@ -1,4 +1,4 @@
--------------------------About me--------------------------
+-------------------------AboutMe--------------------------
 - 👋 Hi, I’m @Man42maker
 - 👀 I’m interested in making game.
 - 🌱 I’m currently learning c++ and python
