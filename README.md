@@ -1,7 +1,7 @@
 ## About me
 just coding and do lot of stuff.
 
-## Programming languages that I can (so far)
+## Programming languages that I can do (so far)
 * C++
 * C
 * Python
