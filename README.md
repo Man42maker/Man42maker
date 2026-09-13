@@ -1,4 +1,4 @@
-## About me
+### About me
 just coding and do lot of stuff.
 
 ## Programming languages that I can code (so far)
